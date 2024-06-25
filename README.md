@@ -1,4 +1,4 @@
-CALCULADORA
+#CALCULADORA
 Este proyecto es una calculadora virtual interactiva desarrollada en Python. El código está estructurado utilizando las funciones especificadas en diferentes ramas, que luego se combinan en el archivo principal calcu.py.
 
 Descripción del Proyecto
