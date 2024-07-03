@@ -1,5 +1,7 @@
+import math
+
 def raiz():
-    import math
-    a = float(input("..."))
-    R=math.sqrt()
+    
+    a = float(input("ungrese su sumero"))
+    R=math.sqrt(a)
     print("su resultado es : " ,R)
